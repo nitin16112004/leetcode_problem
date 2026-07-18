@@ -49,4 +49,12 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nitin16112004/leetcode_problem/tree/master/0703-kth-largest-element-in-a-stream) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/nitin16112004/leetcode_problem/tree/master/0516-longest-palindromic-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/nitin16112004/leetcode_problem/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
