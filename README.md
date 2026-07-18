@@ -8,11 +8,13 @@
 | [0239-sliding-window-maximum](https://github.com/nitin16112004/leetcode_problem/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/nitin16112004/leetcode_problem/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Sorting
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/nitin16112004/leetcode_problem/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/nitin16112004/leetcode_problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +71,5 @@
 |  |
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 <!---LeetCode Topics End-->
