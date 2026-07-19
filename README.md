@@ -60,6 +60,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nitin16112004/leetcode_problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/nitin16112004/leetcode_problem/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nitin16112004/leetcode_problem/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/nitin16112004/leetcode_problem/tree/master/1717-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/nitin16112004/leetcode_problem/tree/master/1717-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
