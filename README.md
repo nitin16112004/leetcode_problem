@@ -44,6 +44,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nitin16112004/leetcode_problem/tree/master/0069-sqrtx) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nitin16112004/leetcode_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -72,4 +73,8 @@
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nitin16112004/leetcode_problem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
