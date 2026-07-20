@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nitin16112004/leetcode_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nitin16112004/leetcode_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -92,8 +94,10 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
