@@ -40,6 +40,7 @@
 | [0100-same-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nitin16112004/leetcode_problem/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nitin16112004/leetcode_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -100,12 +101,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nitin16112004/leetcode_problem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0463-island-perimeter](https://github.com/nitin16112004/leetcode_problem/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/nitin16112004/leetcode_problem/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/nitin16112004/leetcode_problem/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Matrix
 |  |
 | ------- |
