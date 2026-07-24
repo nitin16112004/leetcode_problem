@@ -7,6 +7,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nitin16112004/leetcode_problem/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/nitin16112004/leetcode_problem/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/nitin16112004/leetcode_problem/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/nitin16112004/leetcode_problem/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/nitin16112004/leetcode_problem/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitin16112004/leetcode_problem/tree/master/0516-longest-palindromic-subsequence) |
 ## Hash Table
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/nitin16112004/leetcode_problem/tree/master/0463-island-perimeter) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/nitin16112004/leetcode_problem/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
