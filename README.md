@@ -66,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nitin16112004/leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitin16112004/leetcode_problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nitin16112004/leetcode_problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -78,6 +79,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nitin16112004/leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nitin16112004/leetcode_problem/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nitin16112004/leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/nitin16112004/leetcode_problem/tree/master/0069-sqrtx) |
 ## Stack
 |  |
