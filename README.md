@@ -122,4 +122,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nitin16112004/leetcode_problem/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nitin16112004/leetcode_problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
