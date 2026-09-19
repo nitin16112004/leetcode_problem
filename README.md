@@ -127,4 +127,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/nitin16112004/leetcode_problem/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/nitin16112004/leetcode_problem/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/nitin16112004/leetcode_problem/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
